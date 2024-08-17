@@ -20,7 +20,7 @@ The Project Manager System is a web application designed for efficient project a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/project-manager-system.git
+   [git clone https://github.com/yourusername/project-manager-system.git](https://github.com/ayushgargrk/Project-Manager-System.git)
 2. ./mvnw install
 3. ./mvnw spring-boot:run
 
